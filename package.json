@@ -1,0 +1,24 @@
+{
+  "name": "gunfigurator-node",
+  "version": "1.0.0",
+  "description": "Simple ExpressJS server for live editing Gunbot configuration with Gunfigurator.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "gunbot",
+    "bitcoin",
+    "cryptocurrency",
+    "gunbot",
+    "altcoin"
+  ],
+  "author": "Berti",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors-anywhere": "^0.4.0",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
